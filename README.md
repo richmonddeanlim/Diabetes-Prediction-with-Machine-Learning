@@ -25,6 +25,7 @@ Machine learning models can assist healthcare professionals in identifying poten
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+- imb learn
 
 ## Machine Learning Models
 - Logistic Regression
@@ -52,13 +53,4 @@ Navigate to the project folder
 cd Diabetes-Prediction-with-Machine-Learning
 ```
 
-Install required libraries
-
-
-## Usage
-Run the Jupyter Notebook or Python script to train and evaluate the model.
-Example:
-```
-jupyter notebook
-```
-
+Install required libraries and run the jupyter notebook
